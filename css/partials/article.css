@@ -1,0 +1,23 @@
+.top-heading h1{
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 60px;
+            
+
+}
+.article img{
+            float: left;
+            margin: 0px;
+            padding-right: 20px;
+}
+.article h2{
+            float: left;
+            margin-top: 0px;
+            padding: 0px;
+
+}
+.article p{
+         margin-top: 32px;
+         margin-right: 150px;
+         
+}

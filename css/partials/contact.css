@@ -1,0 +1,63 @@
+.box{
+    width: 800px;
+    height: 75px;
+    background-color: lightgreen;
+    margin: 10px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 15px;
+
+}
+.box p{
+    padding: 10px;
+    text-align: left;
+
+}
+
+label{
+    float: left;
+    margin-top: 15px;
+    margin-right: 400px;    
+}
+label input{
+    padding-left: 20px;
+    margin-left: 10px;
+    padding-right: 200px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+
+}
+label textarea{
+    margin-top: 7px;
+}
+select{
+    padding-left: 20px;
+    margin-left: 10px;
+    padding-right: 231px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+
+}
+form .last{
+    margin-bottom: 30px;
+}
+form .right{
+    float: right;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 5px;
+}
+.meeting{
+    float: left;
+    margin: 0px;
+    margin-bottom: 50px;
+    padding: 0px;
+
+}

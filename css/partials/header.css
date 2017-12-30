@@ -1,0 +1,81 @@
+.site-header .links {
+    float: left;
+}
+.site-header .ribbon {
+    padding-top: 4px;
+}
+
+
+.site-header .social {
+    float: right;
+}
+
+.site-header .top {
+    background-color: #F2F2F2;
+}
+
+.site-header .logo {
+    float: left;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.site-header a {
+    color: #222;
+    text-decoration: none;
+}
+
+.site-header .search {
+    float: left;
+    margin: 1rem 0 0 200px;
+}
+
+.site-header .search input {
+    background: url('../../image/magnify.png') no-repeat;
+    padding: .8rem 2.4rem .8rem .8rem;
+    background-position: 95% 50%;
+    border: 1px solid #ccc;
+}
+
+.site-header .site-nav {
+    float: right;
+    margin-top: .3rem;
+}
+
+.site-header .site-nav ul  {
+    list-style: none;
+}
+
+.site-header .site-nav li  {
+    display: inline-block;
+}
+
+.site-header .site-nav a  {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #C9C9C9;
+    background-color: #D8D8D8;
+    padding: .5rem .8rem .5rem .8rem;
+}
+
+.site-header .site-nav a:hover {
+    color: white;
+    background-color: gray;
+
+}
+
+.site-header .hero {
+    background-color: #D8D8D8;
+    text-align: center;
+    font-size: 1.1rem;
+    padding-bottom: 40px;
+    border-bottom: 1px solid black;
+}
+
+.site-header .hero .wrap {
+    padding-top: 50px;
+}
+
+.site-header .hero h2 {
+    font-size: 1.8rem;
+}

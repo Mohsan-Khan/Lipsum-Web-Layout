@@ -1,0 +1,29 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.wrapper, .wrap {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper {
+    max-width: 2000px;
+}
+
+.wrap {
+    width: 1120px;
+
+}
+
+.clearfix::after {
+    content: ' ';
+    display: block;
+    clear: both;
+}
+.back-to-top img{
+        position: fixed;
+        top: 40%;
+        right: 3%;
+
+}
